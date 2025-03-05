@@ -1,7 +1,7 @@
 # plateformer
 
 Auteur : Téo Champion
-Réalise le 13.12.2024
+Réalisé le 13.12.2024
 
 Université de Toulon - Seatech
 
